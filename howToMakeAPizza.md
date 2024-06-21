@@ -1,6 +1,6 @@
 Pasos para crear una pizza:
 
-1)Mezclar la masa con la harina, sal, agua y levadura,
+1) Mezclar la masa con la harina, sal, agua y levadura,
 2) Fermentar la masa,
 3) Vertir aceite y pasar la mas por el,
 3) Dar forma de pan,
